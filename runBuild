@@ -1,1 +1,6 @@
+# Currently having trouble passing arguments to the second command
+# in Godot, thus this file acts as a way to pass arguments to gradle
+# from Godot.
+# If the argument passing problem can be solved in Godot, then these
+# scripts can be removed.
 ./gradlew build
